@@ -67,7 +67,9 @@ With a value equal to 30 starts obesity. let's look at the distribution of costs
 *Distribution of BMI and Charges*
 
 ![Image 11](./plots/model_results.png)
-*Model Results*
+
+
+Checkout Model Results performed on Jupyter NB: [link text](./plots/Healthcare_Financial_Efficiency.pdf)
 
 
 
