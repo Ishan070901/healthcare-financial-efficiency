@@ -1,5 +1,5 @@
-# Medical Cost Data Analysis-EDA
-Today we will explore a data set dedicated to the cost of treatment of different patients. The cost of treatment depends on many factors: diagnosis, type of clinic, city of residence, age and so on. We have no data on the diagnosis of patients. But we have other information that can help us to make a conclusion about the health of patients and practice regression analysis. In any case, I wish you to be healthy! Let's look at our data.
+# Healthcare Financial Efficiency-EDA
+Here we will explore a data set dedicated to the cost of treatment of different patients. The cost of treatment depends on many factors: diagnosis, type of clinic, city of residence, age and so on. We have no data on the diagnosis of patients. But we have other information that can help us to make a conclusion about the health of patients and practice regression analysis. In any case, I wish you to be healthy! Let's look at our data.
 
 # Steps
 * Encode categorical features like gender, smoker, etc.
@@ -22,7 +22,7 @@ charges     1.000000
 * Distribution of BMI
 * Distribution of BMI and Charges
 * Predict the cost of treatment
-** LinearRegression: 0.7962732059725784
+** LinearRegression: 0.7962732059725786
 ** LinearRegression (PolynomialFeatures): 0.8849197344147238
 ** RandomForestRegressor: 0.89
 
